@@ -8,15 +8,15 @@
 * Laisser le nom par défaut du projet et cliquer sur "next"
 * Laisser la valeur par défaut (Desktop app) et cliquer sur "create"
 * Cliquer sur "download client configuration"
-* Mettre le fichier téléchargé (credentials.json) dans le même dossier que l'éxecutable dézippé précedemment
-* Double-cliquer sur l'éxecutable pour lancer le programme
+* Mettre le fichier téléchargé (credentials.json) dans le même dossier que l'exécutable dézippé précedemment
+* Double-cliquer sur l'exécutable pour lancer le programme
 
-## Fonctionnement de l'éxecutable
+## Fonctionnement de l'exécutable
 
 ### Premier usage
 
-* Lors de la première utilisation, l'éxcutable ouvrira une fenêtre de navigateur pour accéder à votre compte Google
-* Une fois connecté, un nouveau fichier (token.pickle) apparaitra dans le même dossier que votre éxecutable
+* Lors de la première utilisation, l'exécutable ouvrira une fenêtre de navigateur pour accéder à votre compte Google
+* Une fois connecté, un nouveau fichier (token.pickle) apparaitra dans le même dossier que votre exécutable
 
 ### Import des évènements Google Calendar dans Float
 
