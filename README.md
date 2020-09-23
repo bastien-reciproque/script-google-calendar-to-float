@@ -8,7 +8,7 @@
 * Laisser le nom par défaut du projet et cliquer sur "next"
 * Laisser la valeur par défaut (Desktop app) et cliquer sur "create"
 * Cliquer sur "download client configuration"
-* Mettre le fichier téléchargé (credentials.json) dans le même dossier que l'exécutable dézippé précedemment
+* Mettre le fichier téléchargé (credentials.json) dans le même dossier que l'exécutable dézippé précédemment
 * Double-cliquer sur l'exécutable pour lancer le programme
 
 ## Fonctionnement de l'exécutable
