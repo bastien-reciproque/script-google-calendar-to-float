@@ -22,4 +22,4 @@
 
 * Le programme vous demandera d'abord votre adresse mail afin de vous identifier sur Float
 * Il vous sera ensuite demandé de rentrer la date de début puis de fin de la période sur laquelle les évènements Calendar seront transférés dans Float
-* Si un évènement ne peux pas être relié automatiquement au bon projet dans Float, il apparaitra alors sous le projet "FLOAT - Non attribué"
+* Si un évènement ne peux pas être relié automatiquement au bon projet dans Float, il apparaitra alors sous le projet "#NA"
